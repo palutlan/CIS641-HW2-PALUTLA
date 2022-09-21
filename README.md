@@ -6,6 +6,6 @@
 
 ## Technical Background
 
-I am an iOS developer proficient in Objective-C and Swift and have published more than 10 apps on the AppStore. I personally believe that to be a successful business you need to have a great mobile app. I have also worked on cross-platform tools like React Native and Kony to develop apps for Android and iOS.
+I am an iOS developer proficient in Objective-C and Swift and have published more than 10 apps on the AppStore. I personally believe that to be a successful business you need to have a great mobile app. I have also used cross-platform tools like React Native and Kony to develop apps for Android and iOS.
 
 ![](https://i.chzbgr.com/full/9567576576/h2FCEC4BC/wakes-up-middle-night-wakes-up-middle-night-pls-dont-be-6am-pls-dont-be-6am-clock-230am-clock-555am.png)
