@@ -1,6 +1,6 @@
 # Sai Palutla
 
-- Avid gamer who loves online first-person shooters and battle royales. I absolutely love building PCs and love to keep myself updated about the latest in tech.
+- Avid gamer who loves online first-person shooters and battle royales. I absolutely love building PCs and keep myself updated about the latest in tech.
 - Mobile application developer with 6+ years of experience building native iOS applications.
 - When not gaming or developing an app you can find me watching motorsports like Formula 1 and IndyCar.
 
