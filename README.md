@@ -7,4 +7,4 @@
 
 ## Technical Background
 
-![https://i.chzbgr.com/full/9567576576/h2FCEC4BC/wakes-up-middle-night-wakes-up-middle-night-pls-dont-be-6am-pls-dont-be-6am-clock-230am-clock-555am]
+![https://i.chzbgr.com/full/9567576576/h2FCEC4BC/wakes-up-middle-night-wakes-up-middle-night-pls-dont-be-6am-pls-dont-be-6am-clock-230am-clock-555am.png]
