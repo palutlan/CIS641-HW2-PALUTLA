@@ -1,4 +1,3 @@
-# CIS641-HW2-PALUTLA
 # Sai Palutla
 
 - I am an avid gamer who loves online first-person shooters and battle royales. I absolutely love building PCs and love to keep myself updated about the latest in tech.
